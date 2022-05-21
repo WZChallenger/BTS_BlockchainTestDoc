@@ -9,8 +9,7 @@ explain how you arrived at that answer. (5 min)
 
 32 times
 
-Applied half-dividing method.
-
+Applied half-dividing method.<br>
 First time, I try to drop on 50th floor.
 
 - If the first PS5 is broken:
