@@ -118,7 +118,7 @@ console.log(BuildStringFromMatrix(
 
 Check the result on [here](https://codesandbox.io/s/bold-flower-zndyf7?file=/src/index.js:1366-1409).
 
-## Challenge 4 (xx min)
+## Challenge 4 (40 min)
 **Q:** Setup a project and create a contract
 ### Summary
 ETHPool provides a service where people can deposit ETH and they will receive weekly
