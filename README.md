@@ -34,7 +34,7 @@ At last,  after the 32nd attempt, I can confirm both PS5s are broken.
   - Slack, Google meeting, Microsoft Teams, Zoom and the other communication tools - To meet people.
   - MailBox - To check personal & global news.
 
-## Challenge 3 (35min)
+## Challenge 3
 **Q:** Imagine that you are interviewing candidates for this position. Write an example
 question to be used during the interview process. Explain how this question tests the
 candidate’s knowledge, and how this knowledge is representative of the type of problems
@@ -42,7 +42,7 @@ you would expect to tackle when working as a front-end developer.
 
 **A:**
 
-## Challenge 4
+## Challenge 4 (35min)
 **Q:** In Javascript, **Without using built-in functions or imported libraries/modules,** write
 a function with the following signature that, given a matrix of integers, returns a string
 with the entries of that matrix appended in clockwise order. For instance, the 3x4 matrix
