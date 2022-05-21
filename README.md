@@ -21,4 +21,14 @@ explain how you arrived at that answer. (5 min)
     So I won't try the half-dividing method (25th floor) at this moment.
 
 Absolutely the first PS5 will be broken because its limit is 30th floor.
+At last,  after the 32nd attempt, I can confirm both PS5s are broken.
 
+
+
+2. What tools do you use on a day to day basis? Explain why they are important.
+
+  - Github - To explore a lot of open source, issues, code writing and project management, this is most important for me.
+  - VSCode - To write code
+  - Stackoverflow - To explore a lot of issues and solutions.
+  - Slack, Google meeting, Microsoft Teams, Zoom and the other communication tools - To meet people.
+  - MailBox - To check personal & global news.
