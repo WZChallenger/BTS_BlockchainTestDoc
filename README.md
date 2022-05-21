@@ -10,6 +10,7 @@ explain how you arrived at that answer. (5 min)
 32 times
 
 Applied half-dividing method.
+
 First time, I try to drop on 50th floor.
 
 - If the first PS5 is broken:
@@ -23,3 +24,4 @@ First time, I try to drop on 50th floor.
   So I won't try the half-dividing method (25th floor) at this moment.
 
 Absolutely the first PS5 will be broken because its limit is 30th floor.
+
