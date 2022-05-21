@@ -42,7 +42,7 @@ you would expect to tackle when working as a front-end developer.
 
 **A:**
 
-## Challenge 4 (35min)
+## Challenge 4 (35 min)
 **Q:** In Javascript, **Without using built-in functions or imported libraries/modules,** write
 a function with the following signature that, given a matrix of integers, returns a string
 with the entries of that matrix appended in clockwise order. For instance, the 3x4 matrix
@@ -116,4 +116,39 @@ console.log(BuildStringFromMatrix(
 ));
 ```
 
-You can test the result on [here](https://codesandbox.io/s/bold-flower-zndyf7?file=/src/index.js:1366-1409).
+Check the result on [here](https://codesandbox.io/s/bold-flower-zndyf7?file=/src/index.js:1366-1409).
+
+## Challenge 4 (xx min)
+**Q:** Setup a project and create a contract
+### Summary
+ETHPool provides a service where people can deposit ETH and they will receive weekly
+rewards. Users must be able to take out their deposits along with their portion of rewards
+at any time. New rewards are deposited manually into the pool by the ETHPool team
+each week using a contract function.
+### Requirements
+- Only the team can deposit rewards.
+- Deposited rewards go to the pool of users, not to individual users.
+- Users should be able to withdraw their deposits along with their share of rewards
+considering the time when they deposited.
+### Example:
+Let's say we have users **A** and **B** and team **T**.
+**A** deposits 100, and **B** deposits 300 for a total of 400 in the pool.
+Now **A** has 25% of the pool and **B** has 75%. When **T** deposits 200 rewards, **A** should be
+able to withdraw 150 and **B** able to withdraw 450 once the period ends.
+Here’s an example:
+**A** deposits then **T** deposits then **B** deposits then **A** withdraws and finally **B** withdraws.
+**A** should get their deposit + all the rewards.
+**B** should only get their deposit because rewards were sent to the pool before they
+participated.
+**A** and **B** should get their deposit + the corresponding rewards based on the time they have
+been in the pool before **T** deposited the reward.
+
+### Goal
+Design and code a contract for ETHPool, take all the assumptions you need to move
+forward. Think about the most gas-efficient implementation you can.
+You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity,
+Vyper.
+
+### Useful resources:
+- Solidity Docs: https://docs.soliditylang.org/en/v0.8.7
+- Educational Resource: https://github.com/scaffold-eth/scaffold-eth
