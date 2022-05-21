@@ -7,14 +7,14 @@ example, they might be able to take the drop from the 30th floor, but not the 31
 can break both PS5s in your search. State the worst case number of drops needed and
 explain how you arrived at that answer. (5 min)
 
-  32 times
+  * 32 times
 
-  Applied half-dividing method.<br>
-  First time, I try to drop on 50th floor.
+  * Applied half-dividing method.<br>
+  * First time, I try to drop on 50th floor.
 
-  - If the first PS5 is broken:<br>
-    To keep the second PS5 as long as possible, I try to climb up from the 1st floor with the second PS5.
-    So I won't try the half-dividing method (25th floor) at this moment.
+  * - If the first PS5 is broken:<br>
+    * To keep the second PS5 as long as possible, I try to climb up from the 1st floor with the second PS5.
+    * So I won't try the half-dividing method (25th floor) at this moment.
 
   - If the first PS5 is not broken:<br>
     To keep the second PS5 as long as possible, I try to climb up from the 51st floor with the second PS5.
