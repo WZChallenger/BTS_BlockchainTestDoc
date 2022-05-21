@@ -51,7 +51,7 @@ Hint: Keep in mind there could be many different dimensions of a matrix passed i
 
 ```
 const Matrix = [2, 3, 4, 8,
-5, 7, 9, 12,
-1, 0, 6, 10]
-would make the string “2, 3, 4, 8, 12, 10, 6, 0, 1, 5, 7, 9”.
+                5, 7, 9, 12,
+                1, 0, 6, 10]
+would make the string "2, 3, 4, 8, 12, 10, 6, 0, 1, 5, 7, 9".
 ```
