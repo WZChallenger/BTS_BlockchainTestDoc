@@ -1,6 +1,6 @@
 # BTS_BlockchainTestDoc
 
-## Challenge 1
+## Challenge 1 (10 min)
 **Q:** You have been given 2 unusually durable PS5’s. You are in an office building that is
 100 stories high. Using the fewest possible number of drops from windows in your office
 building, determine the highest floor you can drop a PS5 from and have it survive. For
@@ -24,8 +24,8 @@ First time, I try to drop on 50th floor.
 Absolutely the first PS5 will be broken because its limit is 30th floor.
 At last,  after the 32nd attempt, I can confirm both PS5s are broken.
 
-## Challenge 2
-**Q:** What tools do you use on a day to day basis? Explain why they are important.  (10 min)
+## Challenge 2 (10 min)
+**Q:** What tools do you use on a day to day basis? Explain why they are important.
 
 **A:**
   - Github - To explore a lot of open source, issues, code writing and project management, this is most important for me.
@@ -34,7 +34,7 @@ At last,  after the 32nd attempt, I can confirm both PS5s are broken.
   - Slack, Google meeting, Microsoft Teams, Zoom and the other communication tools - To meet people.
   - MailBox - To check personal & global news.
 
-## Challenge 3
+## Challenge 3 (35min)
 **Q:** Imagine that you are interviewing candidates for this position. Write an example
 question to be used during the interview process. Explain how this question tests the
 candidate’s knowledge, and how this knowledge is representative of the type of problems
@@ -115,3 +115,5 @@ console.log(BuildStringFromMatrix(
   4
 ));
 ```
+
+You can test the result on [here](https://codesandbox.io/s/bold-flower-zndyf7?file=/src/index.js:1366-1409).
