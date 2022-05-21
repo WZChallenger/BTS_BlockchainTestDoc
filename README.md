@@ -118,7 +118,7 @@ console.log(BuildStringFromMatrix(
 
 Check the result on [here](https://codesandbox.io/s/bold-flower-zndyf7?file=/src/index.js:1366-1409).
 
-## Challenge 4 (40 min)
+## Challenge 5 (40 min)
 **Q:** Setup a project and create a contract
 ### Summary
 ETHPool provides a service where people can deposit ETH and they will receive weekly
@@ -153,4 +153,19 @@ You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidit
 
 **A:** Check the source code on [here](https://github.com/WZChallenger/BTS_TestETHPoolSC).
 
+## Challenge 6 (20 min)
+**Q:** Deploy the contract to any Ethereum testnet of your preference. Keep record of the deployed address.
 
+### Bonus:
+- Add Radspec
+- Verify the contract in Etherscan
+
+**A:** Ropsten: [0x016C322159f140a69a3b34d57bc6df045df756DA](https://ropsten.etherscan.io/address/0x016C322159f140a69a3b34d57bc6df045df756DA#code).
+
+## Challenge 7 (xx min)
+
+**Q:** Create a script (or a Hardhat task) to query the total amount of ETH held in the contract
+and any other thing you find interesting.<br>
+You can use any library you prefer: Ethers.js, Web3.js, Web3.py, eth-brownie
+
+**A:** 
