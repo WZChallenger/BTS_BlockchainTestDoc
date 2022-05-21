@@ -6,3 +6,5 @@ building, determine the highest floor you can drop a PS5 from and have it surviv
 example, they might be able to take the drop from the 30th floor, but not the 31st. You
 can break both PS5s in your search. State the worst case number of drops needed and
 explain how you arrived at that answer. (5 min)
+
+> 32
