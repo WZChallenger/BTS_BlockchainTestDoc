@@ -131,23 +131,21 @@ each week using a contract function.
 - Users should be able to withdraw their deposits along with their share of rewards
 considering the time when they deposited.
 ### Example:
-Let's say we have users **A** and **B** and team **T**.
-**A** deposits 100, and **B** deposits 300 for a total of 400 in the pool.
-Now **A** has 25% of the pool and **B** has 75%. When **T** deposits 200 rewards, **A** should be
-able to withdraw 150 and **B** able to withdraw 450 once the period ends.
-Here’s an example:
-**A** deposits then **T** deposits then **B** deposits then **A** withdraws and finally **B** withdraws.
-**A** should get their deposit + all the rewards.
-**B** should only get their deposit because rewards were sent to the pool before they
-participated.
-**A** and **B** should get their deposit + the corresponding rewards based on the time they have
-been in the pool before **T** deposited the reward.
+Let's say we have users **A** and **B** and team **T**.<br>
+**A** deposits 100, and **B** deposits 300 for a total of 400 in the pool.<br>
+Now **A** has 25% of the pool and **B** has 75%. When **T** deposits 200 rewards, **A** should be<br>
+able to withdraw 150 and **B** able to withdraw 450 once the period ends.<br>
+Here’s an example:<br>
+**A** deposits then **T** deposits then **B** deposits then **A** withdraws and finally **B** withdraws.<br>
+**A** should get their deposit + all the rewards.<br>
+**B** should only get their deposit because rewards were sent to the pool before they<br>
+participated.<br>
+**A** and **B** should get their deposit + the corresponding rewards based on the time they have<br>
+been in the pool before **T** deposited the reward.<br>
 
 ### Goal
-Design and code a contract for ETHPool, take all the assumptions you need to move
-forward. Think about the most gas-efficient implementation you can.
-You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity,
-Vyper.
+Design and code a contract for ETHPool, take all the assumptions you need to move forward. Think about the most gas-efficient implementation you can.<br>
+You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
 
 ### Useful resources:
 - Solidity Docs: https://docs.soliditylang.org/en/v0.8.7
