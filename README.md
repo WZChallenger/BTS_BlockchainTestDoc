@@ -33,3 +33,25 @@ At last,  after the 32nd attempt, I can confirm both PS5s are broken.
   - Stackoverflow - To explore a lot of issues and solutions.
   - Slack, Google meeting, Microsoft Teams, Zoom and the other communication tools - To meet people.
   - MailBox - To check personal & global news.
+
+## Challenge 3
+**Q:** Imagine that you are interviewing candidates for this position. Write an example
+question to be used during the interview process. Explain how this question tests the
+candidate’s knowledge, and how this knowledge is representative of the type of problems
+you would expect to tackle when working as a front-end developer.
+
+**A:**
+
+## Challenge 4
+**Q:** In Javascript, **Without using built-in functions or imported libraries/modules,** write
+a function with the following signature that, given a matrix of integers, returns a string
+with the entries of that matrix appended in clockwise order. For instance, the 3x4 matrix
+below:
+Hint: Keep in mind there could be many different dimensions of a matrix passed in!
+
+```
+const Matrix = [2, 3, 4, 8,
+5, 7, 9, 12,
+1, 0, 6, 10]
+would make the string “2, 3, 4, 8, 12, 10, 6, 0, 1, 5, 7, 9”.
+```
