@@ -18,6 +18,7 @@ First time, I try to drop on 50th floor.
   So I won't try the half-dividing method (25th floor) at this moment.
 
 - If the first PS5 is not broken:
+
   To keep the second PS5 as long as possible, I try to climb up from the 51st floor with the second PS5.
   So I won't try the half-dividing method (25th floor) at this moment.
 
