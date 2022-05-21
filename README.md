@@ -55,3 +55,63 @@ const Matrix = [2, 3, 4, 8,
                 1, 0, 6, 10]
 would make the string "2, 3, 4, 8, 12, 10, 6, 0, 1, 5, 7, 9".
 ```
+
+**A:**
+```
+function BuildStringFromMatrix(inMatrixElements, NumRows, NumColumns) {
+  let direction = 0; // 0: horizontal, 1: vertical
+  let horzDirection = 1; // 1: right, -1: left, 0: stay
+  let vertDirection = 0; // 1: down, -1: up, 0: stay
+
+  let output = []; // output array
+  let i = 0; // current row
+  let j = 0; // current col
+  let left = 0,
+    right = NumColumns - 1,
+    top = 1,
+    bottom = NumRows - 1;
+
+  while (output.length < NumRows * NumColumns) {
+    output.push(inMatrixElements[i * NumColumns + j]);
+
+    if (direction == 0) {
+      if (horzDirection == 1 && j == right) {
+        horzDirection = 0;
+        vertDirection = 1;
+        direction = 1;
+        right--;
+      }
+      if (horzDirection == -1 && j == left) {
+        horzDirection = 0;
+        vertDirection = -1;
+        direction = 1;
+        left++;
+      }
+    } else if (direction == 1) {
+      if (vertDirection == 1 && i == bottom) {
+        horzDirection = -1;
+        vertDirection = 0;
+        direction = 0;
+        bottom--;
+      }
+      if (vertDirection == -1 && i == top) {
+        horzDirection = 1;
+        vertDirection = 0;
+        direction = 0;
+        top++;
+      }
+    }
+    i += vertDirection;
+    j += horzDirection;
+  }
+
+  return output;
+}
+
+const Matrix = [2, 3, 4, 8, 5, 7, 9, 12, 1, 0, 6, 10];
+console.log(BuildStringFromMatrix(
+  Matrix,
+  3,
+  4
+));
+```
