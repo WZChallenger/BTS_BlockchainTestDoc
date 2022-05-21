@@ -1,6 +1,7 @@
 # BTS_BlockchainTestDoc
 
-1. You have been given 2 unusually durable PS5’s. You are in an office building that is
+## Question 1
+You have been given 2 unusually durable PS5’s. You are in an office building that is
 100 stories high. Using the fewest possible number of drops from windows in your office
 building, determine the highest floor you can drop a PS5 from and have it survive. For
 example, they might be able to take the drop from the 30th floor, but not the 31st. You
@@ -25,7 +26,7 @@ At last,  after the 32nd attempt, I can confirm both PS5s are broken.
 
 
 
-2. What tools do you use on a day to day basis? Explain why they are important.
+2. What tools do you use on a day to day basis? Explain why they are important.  (10 min)
 
   - Github - To explore a lot of open source, issues, code writing and project management, this is most important for me.
   - VSCode - To write code
