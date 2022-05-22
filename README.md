@@ -154,7 +154,7 @@ You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidit
 **A:** Check the source code on [here](https://github.com/WZChallenger/BTS_TestETHPoolSC/blob/main/contracts/ETHPool.sol).
 <br>
 
-To test:
+Unit Test:
 ```
 npm test
 ```
