@@ -185,7 +185,7 @@ Run interact task.
 npm run interact-pool
 ```
 
-## Challenge 8 (30 min)
+## Challenge 8 (30 min + syncing time)
 
 **Q:** Create a subgraph
 <br>
