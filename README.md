@@ -143,7 +143,7 @@ participated.<br>
 ***A*** and ***B*** should get their deposit + the corresponding rewards based on the time they have<br>
 been in the pool before ***T*** deposited the reward.<br>
 
-### Goal
+#### Goal
 Design and code a contract for ETHPool, take all the assumptions you need to move forward. Think about the most gas-efficient implementation you can.<br>
 You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
 
@@ -193,7 +193,7 @@ Create a subgraph that index users of the contract from the first challenge into
 you see convenient. For example, it would be great to query all user deposits to the pool.
 You can be creative and add other information that you find relevant.
 
-**A:** Check the subgraph playround on [here](https://thegraph.com/hosted-service/subgraph/macharry89/ethpool?query=users)
+**A:** Check the subgraph playround on [here](https://thegraph.com/hosted-service/subgraph/macharry89/ethpool?query=users).
 <br>
 [Here](https://github.com/WZChallenger/BTS_TestETHPoolSubgraph) is the subgraph source.
 
