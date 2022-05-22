@@ -168,7 +168,7 @@ npm test
 
 **A:** Ropsten: [0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f](https://ropsten.etherscan.io/address/0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f#code).
 
-## Challenge 7 (xx min)
+## Challenge 7 (15 min)
 
 **Q:** Create a script (or a Hardhat task) to query the total amount of ETH held in the contract
 and any other thing you find interesting.<br>
@@ -184,4 +184,16 @@ Run interact task.
 ```
 npm run interact-pool
 ```
+
+## Challenge 8 (30 min)
+
+**Q:** Create a subgraph
+<br>
+Create a subgraph that index users of the contract from the first challenge into entities as
+you see convenient. For example, it would be great to query all user deposits to the pool.
+You can be creative and add other information that you find relevant.
+
+**A:** Check the subgraph playround on [here](https://thegraph.com/hosted-service/subgraph/macharry89/ethpool?query=users)
+<br>
+[Here](https://github.com/WZChallenger/BTS_TestETHPoolSubgraph) is the subgraph source.
 
