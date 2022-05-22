@@ -166,7 +166,7 @@ npm test
 - Add Radspec
 - Verify the contract in Etherscan
 
-**A:** Ropsten: [0x016C322159f140a69a3b34d57bc6df045df756DA](https://ropsten.etherscan.io/address/0x016C322159f140a69a3b34d57bc6df045df756DA#code).
+**A:** Ropsten: [0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f](https://ropsten.etherscan.io/address/0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f#code).
 
 ## Challenge 7 (xx min)
 
@@ -174,4 +174,14 @@ npm test
 and any other thing you find interesting.<br>
 You can use any library you prefer: Ethers.js, Web3.js, Web3.py, eth-brownie
 
-**A:** 
+**A:** Clone [BTS_TestETHPoolSC](https://ropsten.etherscan.io/address/0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f#code).
+<br>
+Copy .env.example to .env and make sure all the environment variables are set.
+<br>
+Make sure your account A, B, owner(deployer) has enough rETH.
+<br>
+Run interact task.
+```
+npm run interact-pool
+```
+
