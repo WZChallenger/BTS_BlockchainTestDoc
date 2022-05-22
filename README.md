@@ -34,7 +34,7 @@ At last,  after the 32nd attempt, I can confirm both PS5s are broken.
   - Slack, Google meeting, Microsoft Teams, Zoom and the other communication tools - To meet people.
   - MailBox - To check personal & global news.
 
-## Challenge 3
+## Challenge 3 (30 min)
 **Q:** Imagine that you are interviewing candidates for this position. Write an example
 question to be used during the interview process. Explain how this question tests the
 candidate’s knowledge, and how this knowledge is representative of the type of problems
