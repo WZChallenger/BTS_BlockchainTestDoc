@@ -41,6 +41,15 @@ candidate’s knowledge, and how this knowledge is representative of the type of
 you would expect to tackle when working as a front-end developer.
 
 **A:**
+When I am looking for the blockchain dev, I will ask about the low or high-level blockchain theory & high-level practice (ex, distributed application on Hyperledger Fabric, consensus algorithm, several proof layers or (side)chain code development practice).
+Because the smart-contract building is just logic ability, and Logic or Object-oriented design abilities are default to assess for not only blockchain, but also other position.
+I am super-interested on RUST & Solana recently, will question also about this.
+<br>
+
+When I am looking for the FE dev, he have to master a certain framework, For example, if he is the Angular dev, I will ask about the rxjs operator, pure function vs generic function, subscribe/unsubscribe or NgRx..
+
+I know the most important part for the FE dev is letting the team know the blocker(what is blocking FE dev), in other words, sync ability with the BE or whole team.
+I want to question also about the above.
 
 ## Challenge 4 (35 min)
 **Q:** In Javascript, **Without using built-in functions or imported libraries/modules,** write
