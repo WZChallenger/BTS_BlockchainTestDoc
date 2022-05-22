@@ -152,6 +152,11 @@ You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidit
 - Educational Resource: https://github.com/scaffold-eth/scaffold-eth
 
 **A:** Check the source code on [here](https://github.com/WZChallenger/BTS_TestETHPoolSC).
+<br>
+To test:
+```
+npm run test
+```
 
 ## Challenge 6 (20 min)
 **Q:** Deploy the contract to any Ethereum testnet of your preference. Keep record of the deployed address.
