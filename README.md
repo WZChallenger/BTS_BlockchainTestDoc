@@ -143,7 +143,7 @@ participated.<br>
 ***A*** and ***B*** should get their deposit + the corresponding rewards based on the time they have<br>
 been in the pool before ***T*** deposited the reward.<br>
 
-#### Goal
+### Goal
 Design and code a contract for ETHPool, take all the assumptions you need to move forward. Think about the most gas-efficient implementation you can.<br>
 You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidity, Vyper.
 
