@@ -155,7 +155,7 @@ You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidit
 <br>
 To test:
 ```
-npm run test
+npm test
 ```
 
 ## Challenge 6 (20 min)
