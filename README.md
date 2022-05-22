@@ -151,7 +151,7 @@ You can use any development tools you prefer: Hardhat, Truffle, Brownie, Solidit
 - Solidity Docs: https://docs.soliditylang.org/en/v0.8.7
 - Educational Resource: https://github.com/scaffold-eth/scaffold-eth
 
-**A:** Check the source code on [here](https://github.com/WZChallenger/BTS_TestETHPoolSC).
+**A:** Check the source code on [here](https://github.com/WZChallenger/BTS_TestETHPoolSC/blob/main/contracts/ETHPool.sol).
 <br>
 
 To test:
@@ -174,7 +174,7 @@ npm test
 and any other thing you find interesting.<br>
 You can use any library you prefer: Ethers.js, Web3.js, Web3.py, eth-brownie
 
-**A:** Clone [BTS_TestETHPoolSC](https://ropsten.etherscan.io/address/0xE71565Db15f68b4cf36d576e5F9Bc8eF0F56B30f#code).
+**A:** Clone [BTS_TestETHPoolSC](https://github.com/WZChallenger/BTS_TestETHPoolSC).
 <br>
 Copy .env.example to .env and make sure all the environment variables are set.
 <br>
